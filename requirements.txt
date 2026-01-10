@@ -1,1 +1,4 @@
 tensorflow
+pytorch
+numpy
+matplotlib
